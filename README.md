@@ -18,7 +18,7 @@ This Power BI dashboard analyzes sales data for Electro Hub, providing insights 
 
 ✅ Sales by Promotion: all promotion through generating same revenue 20%
 
-                                                                  📈 Insights & Findings:
+                                  📈 Insights & Findings:
 1️⃣ Sales Trends & Performance
 📌 Electronics dominates the sales (89M revenue), followed by Home Appliances (11M).
 📌 Sales fluctuate across months, peaking during festival seasons (Diwali & New Year).
@@ -34,7 +34,7 @@ This Power BI dashboard analyzes sales data for Electro Hub, providing insights 
 📌 Accessories and Footwear have lower sales, indicating a potential need for marketing or pricing adjustments.
 📌 Large-ticket items like Apple products consistently perform well despite limited discounting.
 
-                                                              🚀 Business Recommendations:
+                                  🚀 Business Recommendations:
 ✅ Optimize Discount Strategy
 Experiment with varying discount percentages to identify the most effective promotional strategy.
 Reduce unnecessary discounts on high-performing products like Apple iPhone 14 to maximize profitability.
