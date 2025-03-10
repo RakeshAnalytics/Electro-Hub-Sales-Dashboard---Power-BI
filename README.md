@@ -6,10 +6,15 @@ This Power BI dashboard analyzes sales data for Electro Hub, providing insights 
 
 📊 Key Metrics & KPIs Tracked:
 ✅ Total Sales: 121M
+
 ✅ Total Units Sold: 6,664
+
 ✅ Average Discount Amount: 1.9K
+
 ✅ Sales by Product Category: Electronics leads with 89M sales
+
 ✅ Sales by City: Bhopal, kanpur, indore, mumbai are the top-selling cities
+
 ✅ Sales by Promotion: all promotion through generating same revenue 20%
 
                                                                   📈 Insights & Findings:
