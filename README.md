@@ -5,6 +5,7 @@ In this project I analyzed Electro-hub sales trends, product categories, and dis
 This Power BI dashboard analyzes sales data for Electro Hub, providing insights into product performance, sales trends, city-wise sales, and the impact of promotions. The goal is to identify key business opportunities, optimize discount strategies, and enhance revenue generation.
 
 📊 Key Metrics & KPIs Tracked:
+
 ✅ Total Sales: 121M
 
 ✅ Total Units Sold: 6,664
